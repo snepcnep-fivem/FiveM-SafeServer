@@ -3,7 +3,7 @@ Safe Server is a small addon designed to enhance server protection. You can inte
 
 ### Features
 By using Safe Server, you can ensure a safer and more secure environment for your players.
-- **Anti-Event Protection**: Blocks malicious events that could harm your server's integrity. _(e.g., FivemSecure)_
+- **Anti-Event Protection**: Blocks malicious events that could harm your server's integrity.
 
 ### How to Install
 1. Download the resource.
