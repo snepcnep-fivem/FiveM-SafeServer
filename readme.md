@@ -1,4 +1,4 @@
-# Safe Server!
+# Safe Server! (OLD VERSION!!! - STILL WORKS!!!)
 Safe Server is a small addon designed to enhance server protection. You can integrate this addon with your existing anti-cheat system to improve your server's security.
 
 ### Features
